@@ -165,7 +165,7 @@ This repository includes a GitHub Actions workflow (`.github/workflows/nightly_r
 
 We host the HTML analysis reports via GitHub Pages:
 
-**[View Latest FakeCAPTCHA Analysis Report](https://mhaggis.github.io/ClickGrab/)**
+**[View Latest FakeCAPTCHA Analysis Report]((https://github.com/Charity-Fundraiser/Click-Fix-Project/)**
 
 These auto-updated reports provide:
 - The most current analysis of ClickFix/FakeCAPTCHA URLs
