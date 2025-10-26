@@ -19,7 +19,7 @@ Key Features
 • Risk-score sites and commands; generate HTML/JSON/CSV reports.
 • Designed for automation — GitHub Actions workflow provided.
 
-Author : Michael Haag  <https://github.com/Charity-Fundraiser/Click-Fix-Project>
+Author : Jaypatel  <https://github.com/Charity-Fundraiser/Click-Fix-Project>
 License: Apache-2.0
 """
 
@@ -59,6 +59,7 @@ logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 )
 logger = logging.getLogger("clickgrab")
+
 
 
 def load_environment() -> Optional[str]:
