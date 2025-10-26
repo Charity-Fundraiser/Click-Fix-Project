@@ -19,7 +19,7 @@ Key Features
 • Risk-score sites and commands; generate HTML/JSON/CSV reports.
 • Designed for automation — GitHub Actions workflow provided.
 
-Author : Jaypatel  <https://github.com/Charity-Fundraiser/Click-Fix-Project>
+Author : Jaypatel  <https://mhaggis.github.io/ClickGrab/>
 License: Apache-2.0
 """
 
