@@ -19,7 +19,7 @@ Key Features
 • Risk-score sites and commands; generate HTML/JSON/CSV reports.
 • Designed for automation — GitHub Actions workflow provided.
 
-Author : Michael Haag  <https://github.com/MHaggis/ClickGrab>
+Author : Michael Haag  <https://github.com/Charity-Fundraiser/Click-Fix-Project>
 License: Apache-2.0
 """
 
